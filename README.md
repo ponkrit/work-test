@@ -5,13 +5,18 @@ Please complete this work test by doing the following
 
   - Clone this repo
   - Create a branch and name it with your first name
-  - do the tasks below
+  - Do the tasks below
+  - When complete push back up to your branch
+  - If you have any questions please us the git issue que/system
+
 
 Tasks
 ---
- - Read the API
- - Connect to the Ewallet
- - Do a `usercheck` and look for the following user: *test@ipayoptions.com*
+ - Read the API : *txfunds_integration_v2.1.pdf*
+ - Write PHP code that will do the following:
+ 	- Connect to the Ewallet
+ 	- Do a `usercheck` and look for the following user: *test@ipayoptions.com*
+ 	- Display the data for easy reading.
 
 Paramaters
 ----------
