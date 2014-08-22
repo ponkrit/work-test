@@ -3,7 +3,7 @@ Work Test
 
 Please complete this work test by doing the following
 
-  - Clone this repo
+  - Fork & Clone this repo 
   - Create a branch and name it with your first name
   - Do the tasks below
   - When complete push back up to your branch
