@@ -7,6 +7,7 @@ Please complete this work test by doing the following
   - Create a branch and name it with your first name
   - Do the tasks below
   - When complete push back up to your branch
+    - Remeber - You will need to do a pull request to get it back to this repo
   - If you have any questions please us the git issue que/system
 
 
