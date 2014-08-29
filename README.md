@@ -8,7 +8,7 @@ Please complete this work test by doing the following
   - Create a branch and name it with your first name
   - Do the tasks below
   - When complete push back up to **your** branch
-  - Do a pull request asking for your code to be added to this rfepo
+  - Do a pull request asking for your code to be added to this repo
   - If you have any questions please us the git **issue** system
 
 
