@@ -22,6 +22,6 @@ Tasks
  	- Display the data for easy reading.
  - If you have any questions please us the git **issue** system
 
-Paramaters
+Parameters
 ----------
 See the params.txt file for login info
