@@ -9,7 +9,7 @@ Please complete this work test by doing the following
   - Do the tasks below
   - When complete push back up to **your** branch
   - Do a pull request asking for your code to be added to this repo
-  - If you have any questions please us the git **issue** system
+  - If you have any questions please use the git **issue** system
 
 
 Tasks
@@ -20,7 +20,7 @@ Tasks
  	- Connect to the Ewallet
  	- Do a `usercheck` and look for the following user: *test@ipayoptions.com*
  	- Display the data for easy reading.
- - If you have any questions please us the git **issue** system
+ - If you have any questions please use the git **issue** system
 
 Parameters
 ----------
